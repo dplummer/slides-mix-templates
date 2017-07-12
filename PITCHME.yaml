@@ -1,0 +1,4 @@
+highlight: paraiso-dark # code highlight styles: https://highlightjs.org/static/demo/
+loop: true
+theme: moon # black | moon | night | beige | sky | white
+transition: fade # convex | concave | default | fade | none | slide | zoom
